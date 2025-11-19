@@ -42,7 +42,7 @@
 
 ### Посилання
 
-- GitHub репозиторій: https://github.com/username/repository
+- GitHub репозиторій: https://github.com/misacizuk8-commits/lab02.git
 
 ### Висновки
 
